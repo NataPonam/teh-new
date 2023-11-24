@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/teh-new/static/css/main.fd041e59.css",
+    "main.js": "/teh-new/static/js/main.223351cf.js",
+    "static/js/787.95ac1555.chunk.js": "/teh-new/static/js/787.95ac1555.chunk.js",
+    "static/media/2 Перечень идентифицированных опасностей.xlsx": "/teh-new/static/media/2 Перечень идентифицированных опасностей.2cbb5fdc18937856a309.xlsx",
+    "static/media/trash-bin-icon.svg": "/teh-new/static/media/trash-bin-icon.3aa660dea58884161ef2.svg",
+    "index.html": "/teh-new/index.html",
+    "static/media/white_icon-close.svg": "/teh-new/static/media/white_icon-close.71c4a8b30d65202ef237.svg",
+    "static/media/icon__yes.svg": "/teh-new/static/media/icon__yes.e7c582c8d8f5259f7668.svg",
+    "static/media/polygon-icon.svg": "/teh-new/static/media/polygon-icon.0c2ad09df28f0a7528d8.svg",
+    "main.fd041e59.css.map": "/teh-new/static/css/main.fd041e59.css.map",
+    "main.223351cf.js.map": "/teh-new/static/js/main.223351cf.js.map",
+    "787.95ac1555.chunk.js.map": "/teh-new/static/js/787.95ac1555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd041e59.css",
+    "static/js/main.223351cf.js"
+  ]
+}
