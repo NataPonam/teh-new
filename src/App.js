@@ -33,7 +33,7 @@ function App() {
       <main className='main'>
         <Routes>
           <Route
-            path='/techoavia-roman'
+            path='/teh-new'
             element={
               <Form
                 setModalChild={setModalChild}
